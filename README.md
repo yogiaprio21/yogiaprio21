@@ -7,7 +7,7 @@ Fullstack Web Developer • Web Engineer • Software Enthusiast
 </h3>
 
 <p align="center">
-Building scalable web applications with clean architecture and modern technologies
+Building scalable, maintainable, and production-ready web applications
 </p>
 
 ---
@@ -15,12 +15,13 @@ Building scalable web applications with clean architecture and modern technologi
 ## 👨‍💻 About Me
 
 Saya adalah **Fullstack Web Developer** dengan fokus pada pengembangan aplikasi web modern yang **terstruktur, scalable, dan maintainable**.  
-Berpengalaman mengembangkan **frontend interaktif**, **backend REST API**, serta integrasi database dan autentikasi.
+Berpengalaman dalam membangun **frontend interaktif**, **backend RESTful API**, serta integrasi **database, autentikasi, testing, dan deployment**.
 
 Saya terbiasa bekerja dengan:
-- pendekatan **clean code**
-- pemisahan concern frontend & backend
-- pengembangan berbasis kebutuhan pengguna
+- prinsip **clean code & separation of concerns**
+- arsitektur frontend & backend yang jelas
+- pengembangan berbasis kebutuhan pengguna dan performa sistem
+- workflow pengembangan yang mendekati **real production environment**
 
 ---
 
@@ -35,59 +36,146 @@ Saya terbiasa bekerja dengan:
 - React.js
 - Web Components
 - Responsive & Component-Based UI
+- State & Component Architecture
+
+---
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python" />
 </p>
 
 - Node.js
 - Express.js
-- RESTful API
-- JWT Authentication
+- NestJS (Modular & Scalable Architecture)
+- RESTful API Design
+- JWT Authentication & Authorization
+- Python (scripting, automation, IoT support)
+
+---
 
 ### Database
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
-- PostgreSQL
-- MongoDB
+- PostgreSQL (Relational Data Modeling)
+- MongoDB (Document-Based Storage)
+- Query Optimization & Data Validation
 
-### Tools & Deployment
+---
+
+### Testing
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=jest" />
 </p>
+
+- Unit Testing using **Jest**
+- Testing service & controller layer
+- API response validation
+- Regression prevention & logic verification
+
+---
+
+### CI/CD & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions,vercel,render" />
+</p>
+
+- GitHub Actions (CI/CD Pipeline)
+- Automated workflow:
+  - install dependencies
+  - run tests
+  - build application
+  - deploy to production
+- Deployment:
+  - Frontend → Vercel
+  - Backend → Render / Railway
+
+---
+
+### Tools & Development Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+</p>
+
+- Git & GitHub (branching & collaboration)
+- Visual Studio Code
+- Postman (API testing & documentation)
+- Figma (basic UI/UX collaboration)
+
+---
+
+## 🧪 Testing & Quality Assurance
+
+Testing merupakan bagian dari proses development yang saya terapkan untuk menjaga kualitas dan stabilitas aplikasi.
+
+- Menulis unit test untuk logic penting
+- Menguji endpoint API secara terstruktur
+- Memastikan perubahan kode tidak merusak fitur existing
+- Fokus pada reliability, maintainability, dan readability
+
+Testing difokuskan pada:
+- Authentication & Authorization
+- Core business logic
+- API response & validation
+
+---
+
+## 🔄 CI/CD Workflow
+
+Saya menggunakan **CI/CD pipeline** untuk mengotomasi proses build, testing, dan deployment.
+
+**Pipeline mencakup:**
+1. Install dependencies
+2. Run automated tests (Jest)
+3. Build application
+4. Deploy ke environment tujuan
+
+**Manfaat utama:**
+- Mengurangi human error
+- Deployment lebih cepat dan konsisten
+- Kode selalu dalam kondisi siap produksi
 
 ---
 
 ## 📌 Highlighted Projects
 
 ### 🏛️ Museum Lampung – Digital Collection Management System
-Fullstack system for digitalization and management of museum collections, including admin dashboard and authentication.
+Fullstack system untuk digitalisasi dan manajemen koleksi museum dengan pendekatan enterprise-style architecture.
+
+**Features:**
+- Authentication & role-based access
+- Admin dashboard
+- CRUD collection management
+- RESTful API integration
 
 **Tech Stack:**  
-React • Express.js • PostgreSQL • JWT • REST API
+React • Express.js • PostgreSQL • JWT • Jest • CI/CD
 
 🔗 Repository: *(isi link)*
 
 ---
 
 ### 📝 KataNote – Notes Web Application
-Online note-taking platform built using **Web Components** and **Shadow DOM** for modular UI architecture.
+A modular note-taking web application built using **Web Components & Shadow DOM**.
 
-**Tech Stack:**  
-Web Components • Vanilla JavaScript
+**Highlights:**
+- Component isolation
+- Reusable UI elements
+- Clean vanilla JavaScript architecture
 
 🔗 Repository: *(isi link)*
 
 ---
 
 ### 🤖 ESP32-CAM Face Recognition System
-IoT-based face recognition system using ESP32-CAM with real-time communication and notification support.
+IoT-based face recognition system with real-time interaction and notification support.
 
-**Tech Stack:**  
-Arduino • ESP32 • WebSocket • Telegram API
+**Highlights:**
+- ESP32-CAM integration
+- WebSocket communication
+- Telegram notification automation
 
 🔗 Repository: *(isi link)*
 
@@ -96,7 +184,7 @@ Arduino • ESP32 • WebSocket • Telegram API
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogiaprio21&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yogiaprio21&show_icons=true&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogiaprio21&layout=compact&hide_border=true" height="165"/>
 </p>
 
@@ -106,11 +194,22 @@ Arduino • ESP32 • WebSocket • Telegram API
 
 ---
 
-## 🎯 Currently Focused On
-- Advanced Backend Architecture
-- System Design & Scalability
-- Performance Optimization
-- Fullstack Production Deployment
+## 🎯 Engineering Focus
+
+- Scalable Backend Architecture
+- Clean Code & Maintainability
+- API Design & Documentation
+- Automated Testing
+- CI/CD & Production Deployment
+
+---
+
+## 🧠 Engineering Mindset
+
+- Readable code > clever code
+- Automation over manual process
+- Test before scale
+- Performance & maintainability first
 
 ---
 
