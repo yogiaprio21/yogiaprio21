@@ -1,82 +1,137 @@
-# Hi, I’m Yogi Aprio 👋  
-### Fullstack Web Developer | Web Engineer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Yogi%20Aprio&fontSize=42&fontColor=ffffff" />
+</p>
 
-Saya adalah pengembang web yang fokus pada pengembangan aplikasi modern berbasis **Fullstack JavaScript** dengan pendekatan **clean architecture**, **REST API**, dan **user-centric design**.
+<h3 align="center">
+Fullstack Web Developer • Web Engineer • Software Enthusiast
+</h3>
+
+<p align="center">
+Building scalable web applications with clean architecture and modern technologies
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## 👨‍💻 About Me
 
-**Frontend**
-- HTML, CSS, JavaScript (ES6+)
+Saya adalah **Fullstack Web Developer** dengan fokus pada pengembangan aplikasi web modern yang **terstruktur, scalable, dan maintainable**.  
+Berpengalaman mengembangkan **frontend interaktif**, **backend REST API**, serta integrasi database dan autentikasi.
+
+Saya terbiasa bekerja dengan:
+- pendekatan **clean code**
+- pemisahan concern frontend & backend
+- pengembangan berbasis kebutuhan pengguna
+
+---
+
+## 🛠️ Technology Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+- HTML5, CSS3, JavaScript (ES6+)
 - React.js
 - Web Components
-- Responsive UI Design
+- Responsive & Component-Based UI
 
-**Backend**
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
 - Node.js
 - Express.js
 - RESTful API
 - JWT Authentication
 
-**Database**
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
 - PostgreSQL
 - MongoDB
 
-**Tools & Others**
-- Git & GitHub
-- Vercel & Render
-- Swagger API
-- Figma (basic)
+### Tools & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 📌 Highlighted Projects
 
-### 🔹 Museum Lampung – Digital Collection System
-Fullstack application for digitalization and management of museum collections.
+### 🏛️ Museum Lampung – Digital Collection Management System
+Fullstack system for digitalization and management of museum collections, including admin dashboard and authentication.
 
-**Tech:** React • Express • PostgreSQL • JWT  
-🔗 Repository: *(tambahkan link repo)*
+**Tech Stack:**  
+React • Express.js • PostgreSQL • JWT • REST API
 
----
-
-### 🔹 KataNote – Notes Web App (Web Components)
-Online note-taking application using Web Components & Shadow DOM.
-
-**Tech:** Web Components • Vanilla JS  
-🔗 Repository: *(tambahkan link repo)*
+🔗 Repository: *(isi link)*
 
 ---
 
-### 🔹 ESP32-CAM Face Recognition
-IoT project using ESP32-CAM for face recognition with notification integration.
+### 📝 KataNote – Notes Web Application
+Online note-taking platform built using **Web Components** and **Shadow DOM** for modular UI architecture.
 
-**Tech:** Arduino • ESP32 • WebSocket • Telegram API  
-🔗 Repository: *(tambahkan link repo)*
+**Tech Stack:**  
+Web Components • Vanilla JavaScript
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogiaprio21&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogiaprio21&layout=compact)
+🔗 Repository: *(isi link)*
 
 ---
 
-## 🧠 Currently Learning
+### 🤖 ESP32-CAM Face Recognition System
+IoT-based face recognition system using ESP32-CAM with real-time communication and notification support.
+
+**Tech Stack:**  
+Arduino • ESP32 • WebSocket • Telegram API
+
+🔗 Repository: *(isi link)*
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yogiaprio21&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogiaprio21&layout=compact&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogiaprio21&theme=github-light&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Currently Focused On
 - Advanced Backend Architecture
-- System Design
+- System Design & Scalability
 - Performance Optimization
-- Cloud Deployment
+- Fullstack Production Deployment
 
 ---
 
-## 📫 Contact & Links
-- 💼 LinkedIn: *(isi link LinkedIn Anda)*
-- 📧 Email: *(opsional)*
-- 🌐 Portfolio: *(jika ada)*
+## 📫 Connect With Me
+
+<p>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+  </a>
+</p>
 
 ---
 
-⭐ *Feel free to explore my repositories and reach out for collaboration.*
+<p align="center">
+⭐ Thank you for visiting my GitHub profile.  
+Feel free to explore my repositories or reach out for collaboration.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
