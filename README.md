@@ -117,10 +117,10 @@ Arduino • ESP32 • WebSocket • Telegram API
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://linkedin.com">
+  <a href="http://www.linkedin.com/in/yogi-aprio">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?logo=linkedin" />
   </a>
-  <a href="mailto:email@example.com">
+  <a href="mailto:yogiaprio21@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
   </a>
 </p>
