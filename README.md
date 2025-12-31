@@ -216,7 +216,7 @@ IoT-based face recognition system with real-time interaction and notification su
 ## 📫 Connect With Me
 
 <p>
-  <a href="http://www.linkedin.com/in/yogi-aprio">
+  <a href="https://www.linkedin.com/in/yogi-aprio">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?logo=linkedin" />
   </a>
   <a href="mailto:yogiaprio21@gmail.com">
