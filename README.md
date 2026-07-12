@@ -1,236 +1,191 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Yogi%20Aprio&fontSize=42&fontColor=ffffff" />
-</p>
+<div align="center">
 
-<h3 align="center">
-Fullstack Web Developer • Web Engineer • Software Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Yogi%20Aprio&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%E2%80%A2%20Electrical%20Engineering%20Graduate&descAlignY=52&descSize=17" width="100%"/>
 
-<p align="center">
-Building scalable, maintainable, and production-ready web applications
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=2C90A2&center=true&vCenter=true&width=600&lines=Fullstack+Developer+with+an+Electrical+Engineering+background;Building+RESTful+APIs+%26+database-backed+systems;React.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+TypeScript;Currently+open+to+new+opportunities+%F0%9F%9A%80" />
 
----
+<br/>
+
+<a href="https://linkedin.com/in/yogi-aprio"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:yogiaprio21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://yogi-aprio-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/yogiaprio21?style=social" />
+<img src="https://komarev.com/ghpvc/?username=yogiaprio21&style=flat&color=2c5364&label=Profile+Views" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&section=header" width="100%"/>
 
 ## 👨‍💻 About Me
 
-Saya adalah **Fullstack Web Developer** dengan fokus pada pengembangan aplikasi web modern yang **terstruktur, scalable, dan maintainable**.  
-Berpengalaman dalam membangun **frontend interaktif**, **backend RESTful API**, serta integrasi **database, autentikasi, testing, dan deployment**.
+<table width="100%">
+<tr>
+<td width="25%" align="center">🎓<br/><b>Electrical Engineering</b><br/>Universitas Lampung<br/>GPA 3.71/4.00</td>
+<td width="25%" align="center">💻<br/><b>Fullstack Developer</b><br/>React • Node.js<br/>PostgreSQL • MongoDB</td>
+<td width="25%" align="center">📍<br/><b>Based in</b><br/>Lampung, Indonesia</td>
+<td width="25%" align="center">🚀<br/><b>Focus</b><br/>Web Apps • REST APIs<br/>Database Systems</td>
+</tr>
+</table>
 
-Saya terbiasa bekerja dengan:
-- prinsip **clean code & separation of concerns**
-- arsitektur frontend & backend yang jelas
-- pengembangan berbasis kebutuhan pengguna dan performa sistem
-- workflow pengembangan yang mendekati **real production environment**
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&section=header" width="100%"/>
 
-## 🛠️ Technology Stack
+## 🚀 Featured Projects
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js
-- Web Components
-- Responsive & Component-Based UI
-- State & Component Architecture
+### 🌾 [AgriCane](https://agricane.vercel.app)
+Agriculture monitoring dashboard — field conditions, environmental data, IoT panels, operational recommendations.
 
----
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-- Node.js
-- Express.js
-- NestJS (Modular & Scalable Architecture)
-- RESTful API Design
-- JWT Authentication & Authorization
-- Python (scripting, automation, IoT support)
+### 👥 [Staffora HRMS](https://staffora-hrms.vercel.app)
+HR management dashboard — employee data, activity history, leave management, operational summaries.
 
----
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- PostgreSQL (Relational Data Modeling)
-- MongoDB (Document-Based Storage)
-- Query Optimization & Data Validation
+### 🧪 [LabVentory](https://lab-ventory.vercel.app)
+Laboratory inventory interface — analytics, item tracking, institution management, operational reporting.
 
----
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Testing
-<p>
-  <img src="https://skillicons.dev/icons?i=jest" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-- Unit Testing using **Jest**
-- Testing service & controller layer
-- API response validation
-- Regression prevention & logic verification
+### ⚡ [VoltCost](https://volt-cost.vercel.app)
+Electrical installation cost estimator — input workflow, calculation results, estimation history, report output.
 
----
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### CI/CD & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=githubactions,vercel,render" />
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- GitHub Actions (CI/CD Pipeline)
-- Automated workflow:
-  - install dependencies
-  - run tests
-  - build application
-  - deploy to production
-- Deployment:
-  - Frontend → Vercel
-  - Backend → Render / Railway
+### 📄 [PortoBuilder](https://portofolio-builder-opal.vercel.app)
+CV & portfolio builder — CV import, ATS template selection, document preview, PDF export.
 
----
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PDF](https://img.shields.io/badge/-PDF%20Export-DC3545?style=flat-square&logo=adobeacrobatreader&logoColor=white)
 
-### Tools & Development Environment
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-- Git & GitHub (branching & collaboration)
-- Visual Studio Code
-- Postman (API testing & documentation)
-- Figma (basic UI/UX collaboration)
+### 🏛️ Museum Lampung
+Digital collection management & digitization system — multi-language support, admin dashboard, authentication, analytics.
 
----
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-## 🧪 Testing & Quality Assurance
+</td>
+</tr>
+</table>
 
-Testing merupakan bagian dari proses development yang saya terapkan untuk menjaga kualitas dan stabilitas aplikasi.
+<br/>
 
-- Menulis unit test untuk logic penting
-- Menguji endpoint API secara terstruktur
-- Memastikan perubahan kode tidak merusak fitur existing
-- Fokus pada reliability, maintainability, dan readability
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&section=header" width="100%"/>
 
-Testing difokuskan pada:
-- Authentication & Authorization
-- Core business logic
-- API response & validation
+## 🛠️ Tech Stack
 
----
+<div align="center">
 
-## 🔄 CI/CD Workflow
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css" /><br/>
+<sub>Frontend</sub>
 
-Saya menggunakan **CI/CD pipeline** untuk mengotomasi proses build, testing, dan deployment.
+<br/><br/>
 
-**Pipeline mencakup:**
-1. Install dependencies
-2. Run automated tests (Jest)
-3. Build application
-4. Deploy ke environment tujuan
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,php,python" /><br/>
+<sub>Backend</sub>
 
-**Manfaat utama:**
-- Mengurangi human error
-- Deployment lebih cepat dan konsisten
-- Kode selalu dalam kondisi siap produksi
+<br/><br/>
 
----
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase" /><br/>
+<sub>Database</sub>
 
-## 📌 Highlighted Projects
+<br/><br/>
 
-### 🏛️ Museum Lampung – Digital Collection Management System
-Fullstack system untuk digitalisasi dan manajemen koleksi museum dengan pendekatan enterprise-style architecture.
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,railway,postman" /><br/>
+<sub>Tools & Deployment</sub>
 
-**Features:**
-- Authentication & role-based access
-- Admin dashboard
-- CRUD collection management
-- RESTful API integration
+</div>
 
-**Tech Stack:**  
-React • Express.js • PostgreSQL • JWT • Jest • CI/CD
+<br/>
 
-🔗 Repository: *(isi link)*
+<div align="center">
 
----
+![Swagger](https://img.shields.io/badge/-Swagger%2FOpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Scalar](https://img.shields.io/badge/-Scalar-1A1A1A?style=flat-square)
+![SRS](https://img.shields.io/badge/-SRS%2FSDD%2FSOP-4A90D9?style=flat-square)
 
-### 📝 KataNote – Notes Web Application
-A modular note-taking web application built using **Web Components & Shadow DOM**.
+</div>
 
-**Highlights:**
-- Component isolation
-- Reusable UI elements
-- Clean vanilla JavaScript architecture
+<br/>
 
-🔗 Repository: *(isi link)*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&section=header" width="100%"/>
 
----
+## 📜 Certifications
 
-### 🤖 ESP32-CAM Face Recognition System
-IoT-based face recognition system with real-time interaction and notification support.
+| | Certification | Issuer | Period |
+|---|---|---|---|
+| 🏅 | Full Stack Developer | Dicoding Indonesia × Kampus Merdeka (MSIB 6) | Feb – Jun 2024 |
+| 📡 | Radio Frequency Engineer | BNSP (Badan Nasional Sertifikasi Profesi) | Nov 2025 – Nov 2028 |
+| 🔧 | Back-End Development for Beginners | Dicoding Academy | 2024 |
+| 🌐 | Intermediate Web Development | Dicoding Academy | 2024 |
+| 🎨 | Fundamental Front-End Development | Dicoding Academy | 2024 |
+| 💻 | Basic Web Programming | Dicoding Academy | 2024 |
+| ⚙️ | Basic JavaScript Programming | Dicoding Academy | 2024 |
+| 🔗 | Basic Git & GitHub | Dicoding Academy | 2024 |
 
-**Highlights:**
-- ESP32-CAM integration
-- WebSocket communication
-- Telegram notification automation
+<br/>
 
-🔗 Repository: *(isi link)*
+## 🏆 Achievements
 
----
+- 🎓 National funding selection — **PPK Ormawa**, KEMDIKBUDRISTEK
+- 🎓 National funding selection — **PKM-PM**, KEMDIKBUDRISTEK
 
-## 📊 GitHub Analytics
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogiaprio21&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogiaprio21&layout=compact&hide_border=true" height="165"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&section=header" width="100%"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogiaprio21&theme=github-light&hide_border=true"/>
-</p>
+<div align="center">
 
----
+### 📫 Let's Connect
 
-## 🎯 Engineering Focus
+<a href="https://linkedin.com/in/yogi-aprio"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:yogiaprio21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://yogi-aprio-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-- Scalable Backend Architecture
-- Clean Code & Maintainability
-- API Design & Documentation
-- Automated Testing
-- CI/CD & Production Deployment
+<br/><br/>
 
----
+⭐ Thanks for visiting — feel free to explore my repos or reach out for collaboration.
 
-## 🧠 Engineering Mindset
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
-- Readable code > clever code
-- Automation over manual process
-- Test before scale
-- Performance & maintainability first
-
----
-
-## 📫 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/yogi-aprio">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?logo=linkedin" />
-  </a>
-  <a href="mailto:yogiaprio21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
-  </a>
-</p>
-
----
-
-<p align="center">
-⭐ Thank you for visiting my GitHub profile.  
-Feel free to explore my repositories or reach out for collaboration.
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-</p>
+</div>
